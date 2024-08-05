@@ -1,6 +1,8 @@
 # Interest Rate Calculator
 
-* A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+## What the project does?
+
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 **Input**:
    p, principal amount
    t, time period in years
@@ -8,8 +10,14 @@
 **Output**:
    **simple interest = p x t x r**
 
-* The project is useful for the those who want to calculate interest rate easly and quickly. The software developer can use this project code in their own application / websites as an additional module to calculate interest rate.
+## Why the project is useful
 
-* Users can fork this project code and use the code in thier own softwares or applications under the license condition mentioned in license file of this project.
+The project is useful for the those who want to calculate interest rate easly and quickly. The software developer can use this project code in their own application / websites as an additional module to calculate interest rate.
 
-* Everyone interested to add additional features for this project could contributes and send merge reuqest, then the administrator will go through this additional feature and its code as well. After found this feature is useful for the community, the administrator would merge this feature's code in the project and updated project will available to the community for user subject to meet the lisence contitions.
+## How users can get started with the project
+
+Users can fork this project code and use the code in thier own softwares or applications under the license condition mentioned in license file of this project.
+
+## Who maintains and contributes to the project
+
+Everyone interested to add additional features for this project could contributes and send merge reuqest, then the administrator will go through this additional feature and its code as well. After found this feature is useful for the community, the administrator would merge this feature's code in the project and updated project will available to the community for user subject to meet the lisence contitions.
