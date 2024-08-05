@@ -3,7 +3,7 @@
 
 ## About Interest Rate Calculator
 
-OpenEEW is an open source project and we are always happy to receive contributions from our community. You can contribute in different ways:
+Interest Rate Calculator is an open source project and we are always happy to receive contributions from our community. You can contribute in different ways:
 
 * Writing tutorials and blog posts
 * Improving the documentation
