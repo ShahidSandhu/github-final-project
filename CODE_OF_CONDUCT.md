@@ -40,11 +40,11 @@ Quorum for TSC meetings requires at least fifty percent of all voting members of
 
 ## Current TSC members
 
-* Muhammad S. Sandhu	- Administrator
-* Andres Meira 			- Grillo
-* Diego Melgar 			- Grillo
-* John Walicki 			- IBM
-* Daniel Krook 			- IBM
-* Vaclav Kuna 			- Seismologist
-* Kristin Holifield 	- IBM
-* Ryan Kelley 			- Software Developer
+* Muhammad Shahid Sandhu	- Administrator
+* Andres Meira 	- Grillo
+* Diego Melgar	- Grillo
+* John Walicki	- IBM
+* Daniel Krook 	- IBM
+* Vaclav Kuna 	- Seismologist
+* Kristin Holifield - IBM
+* Ryan Kelley - Software Developer
